@@ -7,7 +7,6 @@
 #include <encoders/mt6701/MagneticSensorMT6701SSI.h>
 #include <haptic.h>
 
-#define MODE_BUTTON PA4
 #define ROTARY_ENCODER_SSI_nCS PB0
 
 MagneticSensorMT6701SSI sensor(ROTARY_ENCODER_SSI_nCS);

@@ -7,6 +7,8 @@ It can be interfaced with using I2C.
 
 <img src="images/Thumb.jpg" height="300">
 
+<img src="images/MotorKnob-Setup.png" height="300">
+
 ## Hardware
 This uses a [special gimbal motor](https://www.sparkfun.com/products/20441).  
 And a simple MT6701 Encoder (the big ones).  
